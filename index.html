@@ -1,0 +1,26 @@
+<!DOCTYPE html> 
+ <html lang="zh-CN"> 
+ <head> 
+     <meta charset="UTF-8"> 
+     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+     <title>校园食堂菜单</title> 
+     <link rel="stylesheet" href="style.css"> 
+ </head> 
+ <body> 
+     <div class="container"> 
+         <header class="header"> 
+             <h1>🍱 校园食堂今日菜单</h1> 
+             <p>精选菜品 · 营养搭配</p> 
+         </header> 
+         <div class="filter-bar"> 
+             <button class="filter-btn active" data-category="all">全部</button> 
+             <button class="filter-btn" data-category="breakfast">早餐</button> 
+             <button class="filter-btn" data-category="lunch">午餐</button> 
+             <button class="filter-btn" data-category="dinner">晚餐</button> 
+             <button class="filter-btn" data-category="snack">小吃</button> 
+         </div> 
+         <div class="menu-grid" id="menuGrid"></div> 
+     </div> 
+     <script src="script.js"></script> 
+ </body> 
+ </html>
