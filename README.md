@@ -42,7 +42,7 @@ npx http-server -p 8000
 
 ## 📱 预览截图
 
-![校园食堂菜单网页预览](https://neeko-copilot.bytedance.net/api/text2image?prompt=campus%20canteen%20menu%20webpage%20UI%20design%20with%20white%20background%20orange%20theme%20food%20cards%20grid%20layout%20clean%20minimalist%20style&size=1024x768)
+![校园食堂菜单网页预览](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=campus%20canteen%20menu%20webpage%20UI%20design%20with%20white%20background%20orange%20theme%20food%20cards%20grid%20layout%20clean%20minimalist%20style&image_size=landscape_16_9)
 
 页面包含：
 - 标题区域：展示"校园食堂今日菜单"
